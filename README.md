@@ -1,6 +1,6 @@
 # EduAgent-CapabilityGraph
 # AI Agent Architecture for Vocational Education Capability Graph Construction
-System architecture design for transforming fragmented recruitment data into structured capability graphs for vocational education, using vertical AI Agents. Domain-agnostic — piloted with the medical aesthetics industry. Created as a probono consulting project for A Better Community (ABC), a social enterprise mobilising professional volunteers to provide management consulting services for social organisations in China.
+System architecture design for transforming fragmented recruitment data into structured capability graphs for vocational education, using vertical AI Agents. Domain-agnostic — piloted with the medical aesthetics industry. Created as a pro bono consulting project for A Better Community (ABC), a social enterprise mobilising professional volunteers to provide management consulting services for social organisations in China.
 ## My Role
 I served as a volunteer Digital Consultant for this project, focusing on system architecture and solution design. This repository documents my design work. The implementation was carried out by the broader project team (over ten volunteers) on the Coze platform.
 ## Background
